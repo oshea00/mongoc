@@ -7,6 +7,7 @@
 *.log
 *.log.*
 obj
+./data/*
 bin
 ErrorLogs
 Packages
