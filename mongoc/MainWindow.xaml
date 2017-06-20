@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:mongoc"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="MainWindow" Height="350" Width="525"
+        Closing="Window_Closing">
     <Grid>
         <StackPanel Orientation="Vertical">
             <ListBox Name="lstAccounts" Height="280"></ListBox>
