@@ -10,6 +10,7 @@ namespace mongoc
     public partial class MainWindow : Window
     {
         MongoServerHelper _server;
+
         public MainWindow()
         {
             InitializeComponent();
