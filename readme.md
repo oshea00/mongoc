@@ -1,6 +1,6 @@
 # Example using MongoDB.Driver #
 
-## Pre-requisites ##
+## Prerequisites ##
 
 * Install mongodb community edition. 
 * Add path to mongod.exe executable - example: "C:\Program Files\MongoDB\Server\3.4\bin" to system path.
