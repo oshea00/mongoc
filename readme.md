@@ -12,7 +12,7 @@
 * Close command windows.
 * Note where the mongod.exe was installed. You'll need this for mongoExePath.
 * Note that the Setup.bat creates your db directory at [projectdir]\data
-* Edit MainWindow.xaml.cs line 20 to pass the correct mongoExepath adnd dbdirpath strings.
+* Edit MainWindow.xaml.cs line 20 to pass the correct mongoExepath and dbdirpath strings.
 
 ## Run ##
 
